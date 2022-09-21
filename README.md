@@ -1,2 +1,4 @@
-# password_generator
-A small python script that allows generating passwords of a length determined by the user.
+# Password generator
+Created using Python.
+> This small script generates passwords of a given length.
+
